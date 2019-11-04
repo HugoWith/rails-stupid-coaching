@@ -1,0 +1,64 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+p{
+  font-family: helvetica;
+  margin-right: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: bold;
+}
+
+h2 {
+text-align: center;
+font-family: Helvetica;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 50vh;
+}
+.btn {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px;
+  font-family: Helvetica;
+  margin: auto;
+  display: block;
+  width: 50%;
+}
+
+.input_user {
+  border-radius: 5px;
+  padding: 5px;
+  display: block;
+  border: 1px solid black;
+  width: 400px;
+}
+
+.input-btn{
+padding: 10px;
+margin: 5px;
+border-radius: 5px;
+width: 200px;
+background-color: black;
+color: white;
+font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
